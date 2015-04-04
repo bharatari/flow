@@ -1,7 +1,7 @@
 #Flow
-Flow is an aesthetically and aurally pleasing model of inelastic collisions between circles in a 2D space with inertia. 
+Flow is an aesthetically pleasing model of inelastic collisions between circles in a 2D space with inertia. This project was a collaboration between Bharat Arimilli, Declan Saviano and Steven Kim for a CS420 design project at Phillips Exeter Academy.
 
-You can (and should) visit this project at any time on any device at http://projectflow.azurewebsites.net
+You can visit this project online at http://projectflow.azurewebsites.net
 
 ##Running Flow 
 Flow is a web app written in TypeScript, which is a language that compiles down to JavaScript. This means that Flow can be run locally on any (modern) browser with absolutely no need for extra plugins or runtimes. Just open the index.html file in your browser (right click and then click Open With for your browser) and you should be good to go!
